@@ -1,3 +1,15 @@
+# [2.0.0](https://github.com/sarafpradumna/releases-test/compare/v1.0.0...v2.0.0) (2023-03-10)
+
+
+* BREAKING CHANGE: v2 ([0cbde35](https://github.com/sarafpradumna/releases-test/commit/0cbde3592f86b34a8252754e0ec7a2631ed7a259))
+
+
+### BREAKING CHANGES
+
+* 
+
+
+
 # [1.0.0](https://github.com/sarafpradumna/releases-test/compare/v0.2.3...v1.0.0) (2023-03-10)
 
 
