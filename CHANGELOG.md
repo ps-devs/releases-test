@@ -1,3 +1,12 @@
+## [0.2.3](https://github.com/sarafpradumna/releases-test/compare/v0.2.2...v0.2.3) (2023-03-10)
+
+
+### Bug Fixes
+
+* gf ([33700c1](https://github.com/sarafpradumna/releases-test/commit/33700c11d6c901d771b87383edfba917a600bf96))
+
+
+
 ## [0.2.2](https://github.com/sarafpradumna/releases-test/compare/v0.2.1...v0.2.2) (2023-03-10)
 
 
