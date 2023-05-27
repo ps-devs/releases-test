@@ -1,3 +1,15 @@
+# [3.0.0](https://github.com/sarafpradumna/releases-test/compare/v2.0.0...v3.0.0) (2023-05-27)
+
+
+* BREAKING CHANGE: test ([3a8a62c](https://github.com/sarafpradumna/releases-test/commit/3a8a62c7a78cb33fc7a4500049f12896e5a8830f))
+
+
+### BREAKING CHANGES
+
+* 
+
+
+
 # [2.0.0](https://github.com/sarafpradumna/releases-test/compare/v1.0.0...v2.0.0) (2023-03-10)
 
 
@@ -37,15 +49,6 @@
 ### Bug Fixes
 
 * hey ([6abebcb](https://github.com/sarafpradumna/releases-test/commit/6abebcbf9a23a95c683f1d9bcd2530f10ec19c09))
-
-
-
-## [0.2.1](https://github.com/sarafpradumna/releases-test/compare/v0.2.0...v0.2.1) (2023-02-22)
-
-
-### Bug Fixes
-
-* fg ([d29c5ab](https://github.com/sarafpradumna/releases-test/commit/d29c5abef7efa2fb7331f49235868557dac9628b))
 
 
 
