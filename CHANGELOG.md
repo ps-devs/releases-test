@@ -1,3 +1,12 @@
+## [4.0.2](https://github.com/sarafpradumna/releases-test/compare/v4.0.1...v4.0.2) (2023-06-08)
+
+
+### Bug Fixes
+
+* Update README.md ([932c2ab](https://github.com/sarafpradumna/releases-test/commit/932c2ab098aea2a26e68258ef5cf8ae7fecde024))
+
+
+
 ## [4.0.1](https://github.com/sarafpradumna/releases-test/compare/v4.0.0...v4.0.1) (2023-06-08)
 
 
@@ -35,18 +44,6 @@
 
 
 * BREAKING CHANGE: v2 ([0cbde35](https://github.com/sarafpradumna/releases-test/commit/0cbde3592f86b34a8252754e0ec7a2631ed7a259))
-
-
-### BREAKING CHANGES
-
-* 
-
-
-
-# [1.0.0](https://github.com/sarafpradumna/releases-test/compare/v0.2.3...v1.0.0) (2023-03-10)
-
-
-* BREAKING CHANGE: ([2945c60](https://github.com/sarafpradumna/releases-test/commit/2945c60ac52014b09db94247a05f4595813fc157))
 
 
 ### BREAKING CHANGES
