@@ -55,12 +55,10 @@ jobs:
           GH_TOKEN: ${{ secrets.GITHUB_TOKEN }}
 
       # release info is now in main so we can continue as before
-      - name: create release with last commit
-        uses: actions/create-release@v1
+      - name: Create a Release
         if: steps.changelog.outputs.skipped == 'false'
+        uses: elgohr/Github-Release-Action@v4
         env:
           GITHUB_TOKEN: ${{ secrets.PAT }}
         with:
-          tag_name: ${{ steps.changelog.outputs.tag }}
-          release_name: ${{ steps.changelog.outputs.tag }}
-          body: ${{ steps.changelog.outputs.clean_changelog }}
+          title: "jj"
