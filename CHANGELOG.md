@@ -1,9 +1,9 @@
-# 4.1.0 (2023-06-10)
+# 4.2.0 (2023-06-10)
 
 
 ### Features
 
-* Update a.yaml ([d1ebd1d](https://github.com/sarafpradumna/releases-test/commit/d1ebd1d4c428cfcd53291eff4d77161194be0b15))
+* Update a.yaml ([50f5dcf](https://github.com/sarafpradumna/releases-test/commit/50f5dcff18f5a602206d0f995816db8f6de5df1c))
 
 
 
